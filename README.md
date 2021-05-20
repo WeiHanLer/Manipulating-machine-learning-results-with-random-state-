@@ -7,7 +7,6 @@ https://towardsdatascience.com/manipulating-machine-learning-results-with-random
 
 Repository Contents
 1. Training file containing the data used for this project originally from Kaggle:
-  
-https://www.kaggle.com/c/titanic/data
-  
+  https://www.kaggle.com/c/titanic/data
+ 
 2. [Jupyter Notebook](https://github.com/WeiHanLer/Manipulating-machine-learning-results-with-random-state-/blob/master/Titanic%20Xgboost%20Code%20for%20Random%20State.ipynb) of the code used in the project for reference 
